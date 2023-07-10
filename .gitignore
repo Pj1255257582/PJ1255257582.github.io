@@ -27,7 +27,3 @@ coverage
 *.sln
 *.sw?
 
-.yarn
-yarn.lock
-.vscode
-.yarnrc.yml
